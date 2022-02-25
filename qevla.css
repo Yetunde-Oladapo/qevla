@@ -1,0 +1,58 @@
+/* navigation style */
+
+.qevla-nav{
+    background-color: white;
+    color: black;
+    box-shadow:0px 0px 100px 0px rgb(226 226 226 / 0.5);
+    
+}
+
+
+.qeva-menu{
+    color: black;
+    position: absolute;
+    right: 300px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+    font-weight: 600;
+}
+.menu-link {
+    color: green;
+    padding: 20px;
+}
+.heading-title{
+    
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    color: #000000;
+    font-weight: 600;
+}
+.widget-container p{
+    font-family:'Poppins', sans-serif;
+    font-size: 18px;
+    color: #52575C;
+
+}
+.iconbox-wrapper{
+    margin-bottom: 25px;
+    padding: 20px 20px 20px 30px;
+    background-color: white;
+    box-shadow: 0px 0px 100px 0px rgb(0 76 116 / 5%);
+    border-radius: 20px 20px 20px 20px;
+    width: 100%;
+} 
+.iconbox-title{
+    font-family:"Poppins", Sans-serif;
+    font-size:24px;
+    font-weight:600;
+    line-height: 37px;
+    color: #000000;
+}
+.iconbox-description{
+    color:#52575C;
+    font-family: "Poppins", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 27px;
+}
+
